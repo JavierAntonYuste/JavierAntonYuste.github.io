@@ -2,7 +2,7 @@
 
 Repository that has all the code related with the web CV of Javier Antón Yuste.
 
-You can check it at [javierantonyuste.github.io](javierantonyuste.github.io).
+You can check it at [javierantonyuste.github.io](https://javierantonyuste.github.io/).
 
 
 ## Sources
