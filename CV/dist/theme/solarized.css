@@ -25,12 +25,12 @@ html * {
   --heading-color: #586e75;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
-  --heading-text-transform: uppercase;
+  --heading-text-transform: none;
   --heading-text-shadow: none;
   --heading-font-weight: normal;
   --heading1-text-shadow: none;
   --heading1-size: 3.77em;
-  --heading2-size: 2.11em;
+  --heading2-size: 2em;
   --heading3-size: 1.55em;
   --heading4-size: 1em;
   --code-font: monospace;
@@ -79,7 +79,7 @@ html * {
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
+  text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -87,7 +87,7 @@ html * {
   font-size: 3.77em; }
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 2em; }
 
 .reveal h3 {
   font-size: 1.55em; }
@@ -103,7 +103,8 @@ html * {
  *********************************************/
 .reveal p {
   margin: 20px 0;
-  line-height: 1.3; }
+  font-size: 1em;
+  line-height: 1.1; }
 
 /* Remove trailing margins after titles */
 .reveal h1:last-child,
